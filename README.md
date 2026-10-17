@@ -63,6 +63,9 @@ Attributed revenue is treated as revenue credited to a campaign within the simul
 5. Review the updated KPI cards and charts.
 6. Explore the **Analysis** sheet to understand the underlying calculations.
 
+##Dashboard Preview
+![Marketing Campaign Performance Dashboard](Marketing%20Dashboard%20.png)
+
 ## Project Purpose
 
 This project demonstrates the practical application of Excel in marketing operations, campaign performance monitoring, KPI reporting, and business decision support.
